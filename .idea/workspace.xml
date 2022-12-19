@@ -1,142 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33942c37-536d-4ee8-aef4-949579178605" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac01/Main2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac01/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac01/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac01/Main5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac01/Main6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task01/Cl_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task01/Cl_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task02/Cl_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task02/Cl_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task03/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task03/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task03/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task04/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task04/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task04/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task05/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task05/NurseryDogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task05/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task06/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task06/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task07/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task07/BookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task07/Bookshelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task09/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac02/task10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task01/FirstGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task02/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task02/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task02/SecondGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task02/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task03/ThirdGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task03/ggg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ForthGui.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ааа/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ааа/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ааа/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ааа/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ааа/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac05/task04/ааа/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task01/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task01/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task01/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task01/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task02/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task02/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task02/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task02/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task03/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task03/Nameable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task03/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task03/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task04/Bread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task04/Juice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task04/Priceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task04/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task09/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task09/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task09/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task10/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task11/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task11/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/StringBuilder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/StringBuilderAppendCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/StringBuilderDeleteCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/StringBuilderInsertCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/StringBuilderReplaceCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/StringBuilderReverseCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task12/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task13/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task13/Displays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task13/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task13/StringBuilder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac06/task13/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task01/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task01/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task01/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task01/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task04/MathCalculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task04/MathFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task04/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task05/ClassStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task05/Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task05/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task06/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task06/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task06/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac07/task06/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac08/task10/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac08/task11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac08/task12/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac08/task13/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac08/task14/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac09/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac09/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac09/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac10/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac10/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac11/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac11/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac11/task03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac11/task03/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac11/task04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac11/task05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task02/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task03/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task03/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task04/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task04/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task05/Telephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task05/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task06/Word.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac13/task06/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task05/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task06/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task07/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task08/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task08/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/prac14/task09/Main.java" afterDir="false" />
+    <list default="true" id="33942c37-536d-4ee8-aef4-949579178605" name="Changes" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/prac15/task01/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac15/task02/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac15/task03/Swing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac15/task04/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac16/task01/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac16/task02/Areas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac16/task03/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac16/task04/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac17/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac17/EmployeeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac17/MVCPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task01/task_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task01_2/task_1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task02/task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task03/task_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task04/task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task05/task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task06/task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task07/task_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac18/task08/task_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/ComparatorByCourse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/ComparatorByGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/ComparatorBySpeciality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/CompareByGpa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/EmptyStringException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/LabClassUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac19/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task01/GenClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task01/NewAnimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task04/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task04/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac20/task04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task02/NewArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/f/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/f/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/f/file3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/f/file4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/f/file5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac21/task04/f/file6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac22/CalculatorDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac22/CalculatorDriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac22/CalculatorUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac22/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task01/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task01/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task01/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task02/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task02/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task02/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task02/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac23/task02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/PractUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac24/TextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac25/task03/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac25/task04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac26/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac26/Hashtab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac26/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac27/task01/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac27/task02/NewMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prac27/task02/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/prac01/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prac01/Main1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,27 +101,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/IdeaProjects/java3sem/src/prac05/task04"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lenovo/IdeaProjects/java3sem/src/prac05/task04&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Lenovo\IdeaProjects\java3sem\src\prac05\task04" />
       <recent name="C:\Users\Lenovo\IdeaProjects\java3sem\src\prac05\task03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.prac14.task09.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac14.task07.Main" />
+  <component name="RunManager" selected="Application.TestClass">
+    <configuration name="OrderUI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac30.OrderUI" />
       <module name="java3sem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac14.task07.*" />
+          <option name="PATTERN" value="prac30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prac14.task05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac14.task05.Main" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac27.task01.Test" />
       <module name="java3sem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac14.task05.*" />
+          <option name="PATTERN" value="prac27.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -204,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prac14.task06.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac14.task06.Main" />
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac32.TestClass" />
       <module name="java3sem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac14.task06.*" />
+          <option name="PATTERN" value="prac32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prac14.task08.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac14.task08.Main" />
+    <configuration name="prac27.task02.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac27.task02.Test" />
       <module name="java3sem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac14.task08.*" />
+          <option name="PATTERN" value="prac27.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prac14.task09.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac14.task09.Main" />
+    <configuration name="prac29.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac29.Test" />
       <module name="java3sem" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac14.task09.*" />
+          <option name="PATTERN" value="prac29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,19 +182,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.prac14.task05.Main" />
-      <item itemvalue="Application.prac14.task06.Main" />
-      <item itemvalue="Application.prac14.task08.Main" />
-      <item itemvalue="Application.prac14.task09.Main" />
+      <item itemvalue="Application.OrderUI" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.TestClass" />
+      <item itemvalue="Application.prac27.task02.Test" />
+      <item itemvalue="Application.prac29.Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prac14.task09.Main" />
-        <item itemvalue="Application.prac14.task08.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.prac14.task06.Main" />
-        <item itemvalue="Application.prac14.task05.Main" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="Application.OrderUI" />
+        <item itemvalue="Application.prac29.Test" />
+        <item itemvalue="Application.prac27.task02.Test" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -276,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671307685264</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1671362322673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671362322673</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,6 +237,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
 </project>
